@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.182" height="17.944" viewBox="0 0 23.182 17.944">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#0e3a89;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.2px}
+        </style>
+    </defs>
+    <g id="transferir" transform="translate(.6 .848)">
+        <g id="arrows">
+            <g id="arrow-left" transform="translate(10.991)">
+                <path id="Path" d="M10.991.337H0" class="cls-1" transform="translate(0 5.079)"/>
+                <path id="Path-2" d="M5.734 10.832L0 5.416 5.734 0" class="cls-1" data-name="Path"/>
+            </g>
+            <g id="arrow-right" transform="translate(0 5.416)">
+                <path id="Path-3" d="M0 .337h10.991" class="cls-1" data-name="Path" transform="translate(0 5.079)"/>
+                <path id="Path-4" d="M0 0l5.5 5.416L0 10.832" class="cls-1" data-name="Path" transform="translate(5.496)"/>
+            </g>
+        </g>
+    </g>
+</svg>

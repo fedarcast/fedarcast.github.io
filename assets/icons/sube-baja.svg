@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.506" height="7.989" viewBox="0 0 21.506 7.989">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#0e3a89;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.2px}
+        </style>
+    </defs>
+    <g id="Grupo_1012" data-name="Grupo 1012" transform="translate(-1243.742 -345.658)">
+        <g id="Grupo_1008" data-name="Grupo 1008" transform="translate(1244.591 346.258)">
+            <path id="Path" d="M0 0h6.789" class="cls-1" transform="rotate(-90 5.367 1.422)"/>
+            <path id="Path-2" d="M0 0l4 3.944-4 3.943" class="cls-1" data-name="Path" transform="rotate(-90 2.001 2.001)"/>
+        </g>
+        <g id="Grupo_1011" data-name="Grupo 1011" transform="rotate(180 632.2 176.524)">
+            <path id="Path-3" d="M0 0h6.789" class="cls-1" data-name="Path" transform="rotate(-90 5.367 1.422)"/>
+            <path id="Path-4" d="M0 0l4 3.944-4 3.943" class="cls-1" data-name="Path" transform="rotate(-90 2.001 2.001)"/>
+        </g>
+    </g>
+</svg>

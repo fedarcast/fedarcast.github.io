@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.428" height="11.057" viewBox="0 0 18.428 11.057">
+    <defs>
+        <style>
+            .cls-1{fill:#0e3a89}
+        </style>
+    </defs>
+    <g id="teclado-virtual" transform="translate(0 -109.633)">
+        <g id="Grupo_313" data-name="Grupo 313" transform="translate(0 109.633)">
+            <path id="Trazado_83" d="M18.068 109.993a1.184 1.184 0 0 0-.869-.36H1.229a1.184 1.184 0 0 0-.869.36 1.184 1.184 0 0 0-.36.869v8.6a1.184 1.184 0 0 0 .36.869 1.184 1.184 0 0 0 .869.36H17.2a1.229 1.229 0 0 0 1.229-1.229v-8.6a1.184 1.184 0 0 0-.361-.869zm-.869 9.468H1.229v-8.6H17.2z" class="cls-1" data-name="Trazado 83" transform="translate(0 -109.633)"/>
+            <path id="Trazado_84" d="M73.243 330.13h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154z" class="cls-1" data-name="Trazado 84" transform="translate(-70.632 -321.53)"/>
+            <path id="Trazado_85" d="M73.243 257.041h2.15a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-2.15a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154z" class="cls-1" data-name="Trazado 85" transform="translate(-70.632 -250.898)"/>
+            <path id="Trazado_86" d="M73.243 183.951h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154z" class="cls-1" data-name="Trazado 86" transform="translate(-70.632 -180.265)"/>
+            <path id="Trazado_87" d="M154.627 328.9h-8.293a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154h8.292a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.153-.154z" class="cls-1" data-name="Trazado 87" transform="translate(-141.267 -321.532)"/>
+            <path id="Trazado_88" d="M182.725 256.887a.136.136 0 0 0 .153.154h.922a.136.136 0 0 0 .153-.154v-.921a.136.136 0 0 0-.153-.154h-.922a.136.136 0 0 0-.153.154z" class="cls-1" data-name="Trazado 88" transform="translate(-176.582 -250.898)"/>
+            <path id="Trazado_89" d="M146.335 183.951h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154z" class="cls-1" data-name="Trazado 89" transform="translate(-141.267 -180.265)"/>
+            <path id="Trazado_90" d="M255.813 256.887a.136.136 0 0 0 .154.154h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154z" class="cls-1" data-name="Trazado 90" transform="translate(-247.213 -250.898)"/>
+            <path id="Trazado_91" d="M219.421 183.951h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154z" class="cls-1" data-name="Trazado 91" transform="translate(-211.896 -180.265)"/>
+            <path id="Trazado_92" d="M328.9 256.887a.136.136 0 0 0 .153.154h.922a.136.136 0 0 0 .153-.154v-.921a.136.136 0 0 0-.153-.154h-.922a.136.136 0 0 0-.153.154z" class="cls-1" data-name="Trazado 92" transform="translate(-317.847 -250.898)"/>
+            <path id="Trazado_93" d="M439.612 328.9h-.921a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154z" class="cls-1" data-name="Trazado 93" transform="translate(-423.795 -321.532)"/>
+            <path id="Trazado_94" d="M292.516 183.951h.922a.136.136 0 0 0 .153-.154v-.921a.136.136 0 0 0-.153-.154h-.922a.136.136 0 0 0-.153.154v.921a.136.136 0 0 0 .153.154z" class="cls-1" data-name="Trazado 94" transform="translate(-282.535 -180.265)"/>
+            <path id="Trazado_95" d="M365.6 183.951h.921a.136.136 0 0 0 .154-.154v-.921a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154v.921a.136.136 0 0 0 .154.154z" class="cls-1" data-name="Trazado 95" transform="translate(-353.161 -180.265)"/>
+            <path id="Trazado_96" d="M401.991 186.254a.136.136 0 0 0 .154.154h2.15a.136.136 0 0 0 .154-.154v-3.378a.136.136 0 0 0-.154-.154h-.921a.136.136 0 0 0-.154.154v2.3h-1.075a.136.136 0 0 0-.154.154v.921z" class="cls-1" data-name="Trazado 96" transform="translate(-388.477 -180.265)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.724" height="15.649" viewBox="0 0 26.724 15.649">
+    <defs>
+        <style>
+            .cls-1{fill:#0e3a89;stroke:#0e3a89;stroke-width:.2px}
+        </style>
+    </defs>
+    <g id="ojo-encendido" transform="translate(.123 -106.562)">
+        <g id="Grupo_458" data-name="Grupo 458" transform="translate(0 106.662)">
+            <g id="Grupo_457" data-name="Grupo 457">
+                <path id="Trazado_1225" d="M26.385 114.073c-.209-.3-5.221-7.411-13.144-7.411-6.8 0-12.857 7.067-13.112 7.368a.554.554 0 0 0 0 .713c.255.3 6.313 7.368 13.112 7.368s12.857-7.067 13.112-7.368a.552.552 0 0 0 .032-.67zm-13.144 6.934c-5.45 0-10.632-5.2-11.948-6.621 1.314-1.425 6.491-6.621 11.948-6.621 6.377 0 10.878 5.19 11.977 6.591-1.268 1.379-6.48 6.651-11.976 6.651z" class="cls-1" data-name="Trazado 1225" transform="translate(0 -106.662)"/>
+            </g>
+        </g>
+        <g id="Grupo_460" data-name="Grupo 460" transform="translate(8.828 109.972)">
+            <g id="Grupo_459" data-name="Grupo 459">
+                <path id="Trazado_1226" d="M175.076 170.662a4.414 4.414 0 1 0 4.414 4.414 4.418 4.418 0 0 0-4.414-4.414zm0 7.724a3.31 3.31 0 1 1 3.31-3.31 3.315 3.315 0 0 1-3.31 3.31z" class="cls-1" data-name="Trazado 1226" transform="translate(-170.662 -170.662)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.327" height="14.041" viewBox="0 0 24.327 14.041">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#0e3a89;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.2px}
+        </style>
+    </defs>
+    <g id="invertir" transform="translate(.849 .849)">
+        <path id="Path" d="M22.63 0l-9.772 9.772-5.143-5.143L0 12.343" class="cls-1"/>
+        <path id="Path-2" d="M0 0h6.172v6.172" class="cls-1" data-name="Path" transform="translate(16.458)"/>
+    </g>
+</svg>

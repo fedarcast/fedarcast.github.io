@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.3" height="15.451" viewBox="0 0 29.3 15.451">
+    <defs>
+        <style>
+            .cls-1{fill:#0e3a89}
+        </style>
+    </defs>
+    <g id="cheques" transform="translate(0 -121)">
+        <path id="Trazado_1480" d="M29.128 121.172a.571.571 0 0 0-.4-.172H.572a.58.58 0 0 0-.572.572v14.306a.578.578 0 0 0 .572.572h28.155a.578.578 0 0 0 .572-.572v-14.306a.571.571 0 0 0-.171-.4zm-.973 14.135H1.145v-13.162h27.01v13.162z" class="cls-1" data-name="Trazado 1480"/>
+        <path id="Trazado_1481" d="M55.451 226H40.572a.572.572 0 1 0 0 1.145h14.879a.572.572 0 1 0 0-1.145z" class="cls-1" data-name="Trazado 1481" transform="translate(-37.711 -98.991)"/>
+        <path id="Trazado_1482" d="M53.734 266H40.572a.572.572 0 1 0 0 1.145h13.162a.572.572 0 1 0 0-1.145z" class="cls-1" data-name="Trazado 1482" transform="translate(-37.711 -136.702)"/>
+        <path id="Trazado_1483" d="M40.572 167.145h3.434a.572.572 0 1 0 0-1.145h-3.434a.572.572 0 1 0 0 1.145z" class="cls-1" data-name="Trazado 1483" transform="translate(-37.711 -42.425)"/>
+        <path id="Trazado_1484" d="M383.715 188.289h1.717a.572.572 0 0 0 0-1.145h-.858v-.572a.572.572 0 1 0-1.145 0v.6a1.717 1.717 0 0 0 .286 3.409h.572a.572.572 0 1 1 0 1.145h-1.717a.572.572 0 1 0 0 1.145h.858v.572a.572.572 0 1 0 1.145 0v-.6a1.717 1.717 0 0 0-.286-3.409h-.572a.572.572 0 0 1 0-1.145z" class="cls-1" data-name="Trazado 1484" transform="translate(-360.138 -61.28)"/>
+    </g>
+</svg>
