@@ -111,6 +111,9 @@ body {
     font-weight: 700;
 }
 
+p.lead {
+    margin-bottom: .5rem
+}
 
 /*
  * Footer
