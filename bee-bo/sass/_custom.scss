@@ -321,7 +321,6 @@ select:-webkit-autofill:focus {
 .alerta-p {
     display: flex;
     align-items: center;
-    justify-content: left;
     border: none;
     outline: none;
     padding: .75rem 0 !important;
@@ -341,10 +340,6 @@ select:-webkit-autofill:focus {
 .alerta-cta {
     display: flex;
     align-items: center;
-    justify-content: left;
-    border: none;
-    outline: none;
-    padding-left: 1rem;
 
     .btn {
         padding: .3rem .8rem;

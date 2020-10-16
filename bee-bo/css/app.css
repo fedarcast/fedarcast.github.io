@@ -4059,9 +4059,6 @@ select:-webkit-autofill:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: left;
-      -ms-flex-pack: left;
-          justify-content: left;
   border: none;
   outline: none;
   padding: .75rem 0 !important;
@@ -4082,12 +4079,6 @@ select:-webkit-autofill:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: left;
-      -ms-flex-pack: left;
-          justify-content: left;
-  border: none;
-  outline: none;
-  padding-left: 1rem;
 }
 
 .alerta-cta .btn {
