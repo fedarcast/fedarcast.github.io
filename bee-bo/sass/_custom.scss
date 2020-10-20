@@ -216,9 +216,8 @@ select:-webkit-autofill:focus {
     color: $white !important;
     background-color: $dark !important;
     min-height: 68px !important;
-    min-width: 320px;
+    max-width: 500px;
     padding: 12px 0 12px 6px !important;
-    width: 500px;
     display: flex;
     align-items: center;
 }
@@ -324,6 +323,7 @@ select:-webkit-autofill:focus {
     border: none;
     outline: none;
     padding: .75rem 0 !important;
+    width: calc(100% - 120px)
 }
 
 // Estilos del texto
@@ -377,12 +377,11 @@ select:-webkit-autofill:focus {
     justify-content: center;
     border: none;
     outline: none;
+    padding: 0 1.25rem;
 }
 
 // Botón X (cierra alerta)
 .alerta-x .close {
-    padding: 0 1.25rem !important;
-    position: unset !important;
     font-size: 1.5rem;
     font-weight: $font-weight-normal;
     line-height: $alert-line-height;
@@ -408,8 +407,7 @@ select:-webkit-autofill:focus {
 
 .alerta-flag {
     @extend .alerta;
-    min-width: 350px;
-    width: 350px;
+    max-width: 350px;
     padding: 20px 0 20px 6px !important;
     flex-direction: column;
     justify-content: space-between;
@@ -427,7 +425,7 @@ select:-webkit-autofill:focus {
     .alerta-p {
         flex-direction: column;
         padding: .25rem 0 !important;
-        width: 225px;
+        width: calc(100% - 120px);
 
         .flag-title {
             font-size: .875rem !important;
@@ -469,6 +467,26 @@ select:-webkit-autofill:focus {
 .alerta-flag.alerta-danger::after {
     background: $danger
 }
+
+@media (max-width: 768px) {
+    .alerta-i {
+        padding: 0 1rem;
+    }
+
+    .alerta-flag .alerta-p {
+        width: calc(100% - 105px);
+    }
+
+    .alerta-p {
+        width: calc(100% - 105px);
+        padding: 0;
+    }
+
+    .alerta-x {
+        padding: 0 1rem;
+    }
+}
+
 
 // 05) Botones especiales
 
@@ -543,7 +561,7 @@ select:-webkit-autofill:focus {
 // 06) Stepper
 
 .stepper {
-    padding: .75rem;
+    padding: 0 .75rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -638,7 +656,7 @@ select:-webkit-autofill:focus {
 .card {
     padding: 3rem;
     text-align: center;
-    width: 370px !important;
+    // width: 370px !important;
     box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.15);
 
     .card-body {
@@ -670,11 +688,11 @@ select:-webkit-autofill:focus {
     }
 }
 
-// CARD ÚNICA DE BACKOFFICE
+// CARD DE BACKOFFICE
 
 .card-bo {
     @extend .card;
-    width: unset !important;
+    text-align: left !important;
     padding: 32px 60px;
     border-radius: 10px !important;
     box-shadow: 0 0 6px 0 rgba(173, 180, 204, 0.32) !important;

@@ -3956,9 +3956,8 @@ select:-webkit-autofill:focus {
   color: #fff !important;
   background-color: #393939 !important;
   min-height: 68px !important;
-  min-width: 320px;
+  max-width: 500px;
   padding: 12px 0 12px 6px !important;
-  width: 500px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4062,6 +4061,7 @@ select:-webkit-autofill:focus {
   border: none;
   outline: none;
   padding: .75rem 0 !important;
+  width: calc(100% - 120px);
 }
 
 .alerta-p p {
@@ -4120,11 +4120,10 @@ select:-webkit-autofill:focus {
           justify-content: center;
   border: none;
   outline: none;
+  padding: 0 1.25rem;
 }
 
 .alerta-x .close {
-  padding: 0 1.25rem !important;
-  position: unset !important;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 0.8rem;
@@ -4147,8 +4146,7 @@ select:-webkit-autofill:focus {
 }
 
 .alerta-flag {
-  min-width: 350px;
-  width: 350px;
+  max-width: 350px;
   padding: 20px 0 20px 6px !important;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -4177,7 +4175,7 @@ select:-webkit-autofill:focus {
       -ms-flex-direction: column;
           flex-direction: column;
   padding: .25rem 0 !important;
-  width: 225px;
+  width: calc(100% - 120px);
 }
 
 .alerta-flag .alerta-p .flag-title {
@@ -4211,6 +4209,22 @@ select:-webkit-autofill:focus {
 
 .alerta-flag.alerta-danger::after {
   background: #e83030;
+}
+
+@media (max-width: 768px) {
+  .alerta-i {
+    padding: 0 1rem;
+  }
+  .alerta-flag .alerta-p {
+    width: calc(100% - 105px);
+  }
+  .alerta-p {
+    width: calc(100% - 105px);
+    padding: 0;
+  }
+  .alerta-x {
+    padding: 0 1rem;
+  }
 }
 
 .btn-icon {
@@ -4277,7 +4291,7 @@ select:-webkit-autofill:focus {
 }
 
 .stepper {
-  padding: .75rem;
+  padding: 0 .75rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4383,7 +4397,6 @@ select:-webkit-autofill:focus {
 .card, .card-bo, .card-line {
   padding: 3rem;
   text-align: center;
-  width: 370px !important;
   -webkit-box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.15);
 }
@@ -4419,7 +4432,7 @@ select:-webkit-autofill:focus {
 }
 
 .card-bo, .card-line {
-  width: unset !important;
+  text-align: left !important;
   padding: 32px 60px;
   border-radius: 10px !important;
   -webkit-box-shadow: 0 0 6px 0 rgba(173, 180, 204, 0.32) !important;
